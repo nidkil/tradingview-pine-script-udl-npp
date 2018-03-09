@@ -3,7 +3,7 @@ I have been working on Tradingview Pine Scripts (TPS) and it was irritating me t
 
 This repository contains the User Defined Language (UDL) file for syntax highlighting Tradingview Pine Scripts (TPS) files in Notepad++ (NPP).
 
-![Notepad++ with Tradingview Pine Script file with syntax highlighting](https://github.com/nidkil/tradingview-pine-script-udl-npp/images/NPP_Tradingview_Pine_Script_Syntax_Highlighting.png "Notepad++ with Tradingview Pine Script file with syntax highlighting")
+![Notepad++ with Tradingview Pine Script file with syntax highlighting](https://github.com/nidkil/tradingview-pine-script-udl-npp/raw/master/images/NPP_Tradingview_Pine_Script_Syntax_Highlighting.png "Notepad++ with Tradingview Pine Script file with syntax highlighting")
 
 ## Features
 This syntax highlighting for TPS has the following features.
@@ -14,7 +14,7 @@ This syntax highlighting for TPS has the following features.
 ## Install
 Installation is easy and straight forward.
 
-![Installing Tradingview Pine Script UDL file in Notepad++](https://github.com/nidkil/tradingview-pine-script-udl-npp/images/NPP_Language_Menu.png "Installing Tradingview Pine Script UDL file in Notepad++")
+![Installing Tradingview Pine Script UDL file in Notepad++](https://github.com/nidkil/tradingview-pine-script-udl-npp/raw/master/images/NPP_Language_Menu.png "Installing Tradingview Pine Script UDL file in Notepad++")
 
 * Download the tradingview-pine-script-udl-npp.xml file
 * Open Notepad++
@@ -30,12 +30,12 @@ Using the syntax highlighting for TPS is automatic if the TPS files have the rig
 * If the file has the extension .pine Notepad++ will automatically apply the syntax highlighting from the TPS UDL file
 * If it does not have the extension .pine you need to help Notepad++ by manually selecting the TPS UDL from the bottom of the Language menu called Tradingview Pine Script
 
-![Manually selecting Tradingview Pine Script syntax highlighting](https://github.com/nidkil/tradingview-pine-script-udl-npp/images/NPP_TPS_Menu_Option.png "Manually selecting Tradingview Pine Script syntax highlighting")
+![Manually selecting Tradingview Pine Script syntax highlighting](https://github.com/nidkil/tradingview-pine-script-udl-npp/raw/master/images/NPP_TPS_Menu_Option.png "Manually selecting Tradingview Pine Script syntax highlighting")
 
 ## Customize the syntax highlighting
 The styling can be modified to your own preferences by setting the individual styling groups.
 
-![Customizing the Tradingview Pine Script syntax highlighting](https://github.com/nidkil/tradingview-pine-script-udl-npp/images/NPP_UDL_Dialog.png "Customizing the Tradingview Pine Script syntax highlighting")
+![Customizing the Tradingview Pine Script syntax highlighting](https://github.com/nidkil/tradingview-pine-script-udl-npp/raw/master/images/NPP_UDL_Dialog.png "Customizing the Tradingview Pine Script syntax highlighting")
 
 * Go to Language -> Define your language... 
 * At the top of the dialog that opens select select Tradingview Pine Script from the User language drop down list
