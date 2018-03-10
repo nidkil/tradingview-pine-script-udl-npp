@@ -25,7 +25,7 @@
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">study&#x000D;&#x000A;avg min max cum&#x000D;&#x000A;security&#x000D;&#x000A;fill input barcolor bgcolor&#x000D;&#x000A;iff nz abs round fixnan&#x000D;&#x000A;time timestamp timeinrange&#x000D;&#x000A;sma ema donchian stdev linreg rsi&#x000D;&#x000A;hline plot plotarrow plotshape&#x000D;&#x000A;lowest highest</Keywords>
-            <Keywords name="Keywords2">title color text&#x000D;&#x000A;overlay shorttitle&#x000D;&#x000A;step maxval minval defval type&#x000D;&#x000A;linestyle linewidth style transp editable &#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords2">title color text&#x000D;&#x000A;overlay shorttitle&#x000D;&#x000A;step maxval minval defval type options&#x000D;&#x000A;linestyle linewidth style transp editable &#x000D;&#x000A;</Keywords>
             <Keywords name="Keywords3">true false&#x000D;&#x000A;isintraday&#x000D;&#x000A;black blue cyan gray green lime olive orange red silver white&#x000D;&#x000A;na&#x000D;&#x000A;circles&#x000D;&#x000A;float integer string bool string&#x000D;&#x000A;close open high low volume</Keywords>
             <Keywords name="Keywords4">//@version=</Keywords>
             <Keywords name="Keywords5">if else&#x000D;&#x000A;</Keywords>
